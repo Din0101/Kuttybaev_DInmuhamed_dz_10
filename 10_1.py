@@ -26,7 +26,7 @@ class Matrix:
 #            for k in range(len(self.matrix[i])):
 #               res[i][k] = self.matrix[i][k] + other[i][k]
  #       print(res)
-
+#ЛЕГКО 
 
 
 l1 = [[1,2,4],[3,4,5],[5,6,6]]
